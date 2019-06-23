@@ -1,0 +1,3 @@
+task(1) https://jsfiddle.net/x4d73Lnc/  
+
+task(2) https://jsfiddle.net/18n6z47f/8/ 
