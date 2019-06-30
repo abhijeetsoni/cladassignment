@@ -1,0 +1,13 @@
+Javascript tasks
+
+task(1)		https://jsfiddle.net/7smwpad8/
+
+task(2)		https://jsfiddle.net/gp2b403L/
+
+task(3)		https://jsfiddle.net/v4zwu2my/
+
+task(4)		https://jsfiddle.net/ebh1vjfm/
+
+task(5)		https://jsfiddle.net/fon2hpav/
+
+
